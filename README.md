@@ -4,9 +4,9 @@ Dans ce doc que tu es entrain de lire, il te donne tout les informations nécess
 Les scripts c'est comme un serveur automatisée, tu as un script qui permet de fournir le son de la vidéo au bot, et l'autre qui s'occupe des commandes pour join, mettre pause/play et leave la vocal.
 
 Pour le Script en JS, c'est lui qui vas servir comme serveur de base pour fournir le son. il faut que tu install Youtube_DL 
-# commande à installer ""npm install express ytdl-core""
+# commande à installer npm install express ytdl-core
 une fois installer, il faut que tu installent FFmpeg sur leur site internet 
-# Site internet : ""https://ffmpeg.org/download.html""
+# Site internet : https://ffmpeg.org/download.html
 
 une fois terminer, on peut lancer le script avec Node.JS et on peut laisser
 
